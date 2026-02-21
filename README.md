@@ -53,7 +53,7 @@
 
 ## 📦 Download
 
-[![Download](https://img.shields.io/badge/Download-v2.1.0-blue?style=for-the-badge&logo=windows)](https://github.com/yourusername/Audios/releases/latest)
+[![Download](https://img.shields.io/badge/Download-v2.1.0-blue?style=for-the-badge&logo=windows)](https://github.com/PGSoftIberica/windows-audio-control/archive/refs/heads/main.zip)
 
 ZIP contains: Audios.exe + config file. No installers, no registry changes.
 
