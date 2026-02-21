@@ -11,18 +11,6 @@
   <img src="https://img.shields.io/badge/Open_Source-❤️-red?style=for-the-badge" alt="Open Source"/>
 </p>
 
-<p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-download">Download</a> •
-  <a href="#-quick-start">Quick Start</a> •
-  <a href="#-for-developers">Dev</a> •
-  <a href="#-faq">FAQ</a>
-</p>
-
-<img src="https://via.placeholder.com/800x450.png?text=Audios+Preview" alt="Demo" width="80%"/>
-
-</div>
-
 ---
 
 ## ✨ Features
